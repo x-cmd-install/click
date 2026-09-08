@@ -5,7 +5,7 @@ about:
   head: 
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T01:38:02Z
+  collectedAt: 2026-09-08T04:23:47Z
 timeline:
   created: 
   lastCommit: 
@@ -79,7 +79,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `databricks` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/databricks/click
-collectedAt: 2026-09-08T01:38:03Z
+collectedAt: 2026-09-08T04:23:48Z
 loc:
   Rust:
     code: 12198

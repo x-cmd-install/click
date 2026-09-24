@@ -241,3 +241,4 @@ checks:
       - 'Warn: Project is vulnerable to: GHSA-6g7w-8wpp-frhj / RUSTSEC-2024-0336'
       - 'Warn: Project is vulnerable to: RUSTSEC-2018-0017'
       - 'Warn: Project is vulnerable to: GHSA-r24f-hg58-vfrw / RUSTSEC-2023-0075'
+---
